@@ -4,4 +4,4 @@
 - 💞️ I’m looking for new opportunities to grow as a Power BI Developer/Data Analyst
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/karansinghmudela/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a cookartist & love to draw.
+- ⚡ Fun fact: I'm a cook & love to draw.
