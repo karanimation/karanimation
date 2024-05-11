@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karan Singh Mudela
 - 👀 I’m interested to deep dive into data and insights out of it
 - 🌱 I’m currently learning Power BI & SQL
-- 💞️ I’m looking for new opportunities as a Power BI Developer/Data Analyst
+- 💞️ I’m looking for new opportunities to grow as a Power BI Developer/Data Analyst
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/karansinghmudela/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an artist & a cook.
+- ⚡ Fun fact: I'm a cookartist & love to draw.
